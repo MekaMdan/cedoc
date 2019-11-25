@@ -30,9 +30,6 @@ jsonpointer==1.10
 jsonschema==2.6.0
 keyring==10.6.0
 keyrings.alt==3.0
-Kivy==1.11.1
-Kivy-Garden==0.1.4
-kiwisolver==1.1.0
 MarkupSafe==1.0
 matplotlib==3.1.1
 mysqlclient==1.4.4
