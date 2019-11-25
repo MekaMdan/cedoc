@@ -41,7 +41,6 @@ numpy==1.17.2
 oauthlib==2.0.6
 oktopus==0.1.2
 olefile==0.45.1
-PAM==0.4.2
 Pillow==6.2.0
 pipenv==2018.11.26
 powerline-shell==0.7.0
